@@ -58,10 +58,22 @@ Top 20–30% customers contribute majority of revenue (Pareto Principle)
 •	Identified top and bottom products
 •	Found high-value customers
 •	Detected low-engagement customers
+## 📊 Ranking Analysis
 
 ## Image
 ![Ranking Analysis](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Ranking%20Analysis/Screenshot%202026-04-17%20143041.png)
-https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Ranking%20Analysis/Screenshot%202026-04-17%20143102.png
+
+### 🔹 Output 1
+![Output 1](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Ranking%20Analysis/Screenshot%202026-04-17%20143102.png)
+
+### 🔹 Output 2
+![Output 2](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Ranking%20Analysis/Screenshot%202026-04-17%20143125.png)
+
+### 🔹 Output 3
+![Output 3](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Ranking%20Analysis/Screenshot%202026-04-17%20143146.png)
+
+### 🔹 Output 4
+![Output 4](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Ranking%20Analysis/Screenshot%202026-04-17%20143205.png)
 
 ## 📌 Business Value:
 ➡️ Helps optimize product strategy and marketing focus
