@@ -112,6 +112,27 @@ Top 20–30% customers contribute majority of revenue (Pareto Principle)
 •	Year-over-year comparison
 •	Identified high and low performing products
 
+## Image
+## 📊 Performance Analysis
+
+### 📄 SQL Query File
+[View SQL Script](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Performance%20Analysis/SQLQuery%20Performance%20Analysis%20(35-37).sql)
+
+---
+
+### 🔹 Output 1
+![Output 1](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Performance%20Analysis/Screenshot%202026-04-17%20145039.png)
+
+---
+
+### 🔹 Output 2
+![Output 2](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Performance%20Analysis/Screenshot%202026-04-17%20145059.png)
+
+---
+
+### 🔹 Output 3
+![Output 3](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Performance%20Analysis/Screenshot%202026-04-17%20145129.png)
+
 ## 📌 Business Impact:
 ➡️ Helps in product optimization and inventory planning
 
