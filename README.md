@@ -2,7 +2,6 @@
 This project focuses on solving 59+ real-world business problems using SQL and Excel to analyze sales data and generate actionable insights. The objective of this project is to simulate a real business environment, where data is transformed into meaningful insights to support decision-making and business growth.
 
 ## Business Objectives
-
 •	Understand overall sales performance
 •	Analyze customer behavior and segmentation
 •	Identify top-performing products and regions
@@ -33,17 +32,18 @@ This project focuses on solving 59+ real-world business problems using SQL and E
 
 ## Analysis Breakdown
 1. Database & Data Exploration
+
 •	Explored all tables, columns, and relationships
 •	Identified primary and foreign keys
 •	Validated data consistency and completeness
 
-2. Core Metrics (Business Health)
+3. Core Metrics (Business Health)
 •	Calculated total sales, orders, and customers
 •	Measured average selling price
 •	Evaluated employee contribution to revenue
 👉 These metrics define the foundation of business performance
 
-3. Magnitude Analysis (Where revenue comes from)
+4. Magnitude Analysis (Where revenue comes from)
 •	Sales by country, category, and customer
 •	Revenue contribution by employees
 
