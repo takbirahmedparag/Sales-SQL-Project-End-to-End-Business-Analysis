@@ -35,7 +35,8 @@ This project focuses on solving 59+ real-world business problems using SQL and E
 •	Explored all tables, columns, and relationships
 •	Identified primary and foreign keys
 •	Validated data consistency and completeness
-🔹 2. Core Metrics (Business Health)
+
+2. Core Metrics (Business Health)
 •	Calculated total sales, orders, and customers
 •	Measured average selling price
 •	Evaluated employee contribution to revenue
@@ -57,6 +58,9 @@ Top 20–30% customers contribute majority of revenue (Pareto Principle)
 •	Identified top and bottom products
 •	Found high-value customers
 •	Detected low-engagement customers
+
+## Image
+![Ranking Analysis](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Ranking%20Analysis/Screenshot%202026-04-17%20143041.png)
 
 ## 📌 Business Value:
 ➡️ Helps optimize product strategy and marketing focus
