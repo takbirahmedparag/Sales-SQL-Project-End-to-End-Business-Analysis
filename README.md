@@ -61,6 +61,7 @@ Top 20–30% customers contribute majority of revenue (Pareto Principle)
 
 ## Image
 ![Ranking Analysis](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Ranking%20Analysis/Screenshot%202026-04-17%20143041.png)
+https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Ranking%20Analysis/Screenshot%202026-04-17%20143102.png
 
 ## 📌 Business Value:
 ➡️ Helps optimize product strategy and marketing focus
