@@ -83,6 +83,26 @@ Top 20–30% customers contribute majority of revenue (Pareto Principle)
 •	Running total (cumulative growth)
 •	Order trends over time
 
+## Image 
+## 📅 Date Exploration Analysis
+
+### 📄 SQL Query File
+[View SQL Script](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Date%20Exploration/SQLQuery%20Date%20Exploration%20(9-12).sql)
+
+---
+
+### 🔹 Output 1
+![Output 1](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Date%20Exploration/Screenshot%202026-04-17%20141726.png)
+
+### 🔹 Output 2
+![Output 2](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Date%20Exploration/Screenshot%202026-04-17%20141744.png)
+
+### 🔹 Output 3
+![Output 3](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Date%20Exploration/Screenshot%202026-04-17%20141804.png)
+
+### 🔹 Output 4
+![Output 4](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Date%20Exploration/Screenshot%202026-04-17%20141831.png)
+
 ## 📌 Insight:
 ➡️ Business growth patterns and seasonality identified
 
