@@ -8,6 +8,7 @@ This project focuses on solving 59+ real-world business problems using SQL and E
 •	Track business growth over time
 •	Generate insights to improve revenue and efficiency
 
+
 ## Tools & Technologies
 •	SQL (Advanced Queries, CTE, Window Functions)
 •	Excel (Data Validation & Basic Analysis)
