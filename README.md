@@ -140,12 +140,36 @@ Top 20–30% customers contribute majority of revenue (Pareto Principle)
 •	Category contribution to total revenue
 •	Country-wise contribution
 
+## Image
+## 📊 Part-to-Whole Analysis
+
+### 📄 SQL Query File
+[View SQL Script](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Part-To-Whole-Analysis/SQLQuery%20Part-to-whole-Analysis%20(38-40)sql.sql)
+
+---
+
+### 🔹 Output 1
+![Output 1](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Part-To-Whole-Analysis/Screenshot%202026-04-17%20145247.png)
+
+---
+
+### 🔹 Output 2
+![Output 2](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Part-To-Whole-Analysis/Screenshot%202026-04-17%20145321.png)
+
+---
+
+### 🔹 Output 3
+![Output 3](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Part-To-Whole-Analysis/Screenshot%202026-04-17%20145340.png)
+
 ## 📌 Insight:
 ➡️ Identifies dominant revenue drivers
 
 8. Product Segmentation
 •	Segmented products into Low, Medium, High price groups
 •	Analyzed revenue contribution by segment
+
+## Image 
+
 
 ## 📌 Insight:
 ➡️ High-priced products generate higher margins
