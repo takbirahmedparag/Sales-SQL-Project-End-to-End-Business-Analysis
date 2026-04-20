@@ -301,6 +301,32 @@ o	New
 •	Customers with no orders
 •	Best-performing category
 
+## Image 
+## 📈 Advance Business Insights
+
+### 📄 SQL Query File
+[View SQL Script](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Advance%20Business%20Insights/SQLQuery%20%20Advance%20Business%20Insights%20(56-59).sql)
+
+---
+
+### 🔹 Output 1
+![Output 1](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Advance%20Business%20Insights/Screenshot%202026-04-17%20150621.png)
+
+---
+
+### 🔹 Output 2
+![Output 2](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Advance%20Business%20Insights/Screenshot%202026-04-17%20150636.png)
+
+---
+
+### 🔹 Output 3
+![Output 3](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Advance%20Business%20Insights/Screenshot%202026-04-17%20150655.png)
+
+---
+
+### 🔹 Output 4
+![Output 4](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Advance%20Business%20Insights/Screenshot%202026-04-17%20150710.png)
+
 ## 📌 Strategic Insight:
 ➡️ Customer retention is more valuable than acquisition
 
