@@ -239,6 +239,32 @@ o	New
 •	Measured delivery performance
 •	Orders per customer
 
+## Image 
+## 📦 Order Analysis
+
+### 📄 SQL Query File
+[View SQL Script](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Order%20Analysis/SQLQuery%20%20Order%20Analysis%20(52-55).sql)
+
+---
+
+### 🔹 Output 1
+![Output 1](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Order%20Analysis/Screenshot%202026-04-17%20150334.png)
+
+---
+
+### 🔹 Output 2
+![Output 2](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Order%20Analysis/Screenshot%202026-04-17%20150354.png)
+
+---
+
+### 🔹 Output 3
+![Output 3](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Order%20Analysis/Screenshot%202026-04-17%20150415.png)
+
+---
+
+### 🔹 Output 4
+![Output 4](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Order%20Analysis/Screenshot%202026-04-17%20150434.png)
+
 ## 📌 Insight:
 ➡️ Logistics efficiency directly impacts customer satisfaction
 
