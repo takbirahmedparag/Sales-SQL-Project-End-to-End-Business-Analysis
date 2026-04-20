@@ -199,12 +199,37 @@ o	VIP
 o	Regular
 o	New
 
+## Image
+
+## 👥 Customer Segmentation Analysis
+
+### 📄 SQL Query File
+[View SQL Script](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Customer%20Segmentation/SQLQuery%20Customer%20Segmentation%20(44-46).sql)
+
+---
+
+### 🔹 Output 1
+![Output 1](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Customer%20Segmentation/Screenshot%202026-04-17%20145757.png)
+
+---
+
+### 🔹 Output 2
+![Output 2](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Customer%20Segmentation/Screenshot%202026-04-17%20145828.png)
+
+---
+
+### 🔹 Output 3
+![Output 3](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Customer%20Segmentation/Screenshot%202026-04-17%20145933.png)
+
 ## 📌 Insight:
 ➡️ VIP customers drive significant revenue
 
 10. Employee Analysis
 •	Salary distribution and department analysis
 •	Performance-based contribution
+
+## Image
+
 
 ## 📌 Business Value:
 ➡️ Workforce efficiency evaluation
