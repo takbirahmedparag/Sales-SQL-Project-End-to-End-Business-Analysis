@@ -229,7 +229,35 @@ o	New
 •	Performance-based contribution
 
 ## Image
+## 👨‍💼 Employee Analysis
 
+### 📄 SQL Query File
+[View SQL Script](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Employee%20Analysis/SQLQuery%20%20Employee%20Analysis%20(47-51).sql)
+
+---
+
+### 🔹 Output 1
+![Output 1](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Employee%20Analysis/Screenshot%202026-04-17%20150101.png)
+
+---
+
+### 🔹 Output 2
+![Output 2](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Employee%20Analysis/Screenshot%202026-04-17%20150118.png)
+
+---
+
+### 🔹 Output 3
+![Output 3](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Employee%20Analysis/Screenshot%202026-04-17%20150138.png)
+
+---
+
+### 🔹 Output 4
+![Output 4](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Employee%20Analysis/Screenshot%202026-04-17%20150159.png)
+
+---
+
+### 🔹 Output 5
+![Output 5](https://raw.githubusercontent.com/takbirahmedparag/Sales-SQL-Project-End-to-End-Business-Analysis/main/Employee%20Analysis/Screenshot%202026-04-17%20150217.png)
 
 ## 📌 Business Value:
 ➡️ Workforce efficiency evaluation
